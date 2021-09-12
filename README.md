@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on web development 
-- 🌱 I’m learning ethical hacking
+- 🌱 I’m learning ethical hacking and react js
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with internships
 - 📫 How to reach me:s160281@rguktn.ac.in
